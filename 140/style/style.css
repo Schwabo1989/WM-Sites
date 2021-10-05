@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    z-index: 1;
+}
+
+h2 {
+    color: darkred;
+    margin-left: 20px;
+    border-style: dashed;
+    margin-right: 8px;
+    border-top: 8px;
+    border-bottom: 8px;
+}
